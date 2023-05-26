@@ -1,3 +1,17 @@
+# Angular, full CRUD, Json-server
+## if you choose to clone this templete follow these steps:
+open the first terminal:
+- git clone repository
+- cd Angular_FullCRUD_JsonServer_Basic2
+- npm install
+- ng serve -o
+
+open the second terminal:
+- cd Angular_FullCRUD_JsonServer_Basic2
+- json-server --watch db.json
+
+enjoy the project.
+
 # Myapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
